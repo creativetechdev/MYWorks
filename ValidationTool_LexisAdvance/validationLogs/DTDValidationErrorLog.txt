@@ -1,0 +1,6 @@
+Mon Oct 16 13:17:56 IST 2017
+
+List of Invalid Files : 
+
+C:\Users\kuma138\Desktop\Victoria\AUS-000R-20170717075554_ctl\049vr_000101000.xml
+C:\Users\kuma138\Desktop\Victoria\AUS-000R-20170717075554_ctl\049vr_000101000.xml
